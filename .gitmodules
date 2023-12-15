@@ -1,0 +1,8 @@
+[submodule "repo"]
+	path = repo
+	url = git@github.com:chraschi/repo.git
+	branch = plugin.video.vavooto
+[submodule "plugin.video.vavooto"]
+	path = plugin.video.vavooto
+	url = git@github.com:chraschi/repo.git
+	branch = plugin.video.vavooto
