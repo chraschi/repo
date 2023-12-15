@@ -2,3 +2,11 @@
 	path = plugin.video.vavooto
 	url = git@github.com:chraschi/repo.git
 	branch = plugin.video.vavooto
+[submodule "script.module.vavoo"]
+	path = script.module.vavoo
+	url = git@github.com:chraschi/repo.git
+	branch = script.module.vavoo
+[submodule "script.module.xstream"]
+	path = script.module.xstream
+	url = git@github.com:chraschi/repo.git
+	branch = script.module.xstream
